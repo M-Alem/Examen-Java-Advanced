@@ -15,7 +15,6 @@ public class EightBall {
 	
 	public String getRandomAnswer(String question) {
 		String answer = "";
-
 		return answer;
 	}
 

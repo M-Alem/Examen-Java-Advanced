@@ -32,7 +32,7 @@ public class SpringTest {
         		singleton.setGrade(3, "testQuestion");
         }
     }
-    
+
     @Test
     public void testRepo() {
     		Question question = new Question("kysymykset2", "vastauksineen2");

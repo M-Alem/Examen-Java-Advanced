@@ -6,7 +6,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import javax.swing.*;
 import java.awt.*;
-import java.beans.EventHandler;
 
 @Component
 public class UI implements InitializingBean {

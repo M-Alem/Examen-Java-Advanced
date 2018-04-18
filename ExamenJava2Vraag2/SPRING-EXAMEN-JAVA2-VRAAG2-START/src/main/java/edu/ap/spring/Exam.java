@@ -11,14 +11,14 @@ public class Exam {
 	// priemgetallen terug te geven
 	// 2 punten
 	public int[] getPrimes(int[] numbers) {
-		
+
 	}
 	
 	// Maak gebruik van lambdas en streams alle lowercase characters
 	// te tellen in de gegeven string
 	// 1 punt
 	public int countLowercaseCharacters(String string) {
-        
+
 	}
 	
 	// Maak gebruik van lambdas en streams om de som van alle
